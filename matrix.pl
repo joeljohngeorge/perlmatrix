@@ -1,8 +1,4 @@
-#AUTHOR:Joel John George
-# ROLL NO:34
-# ASSIGNMENT 1 : MATRIX ADDITION
-# DATE    : 17/03/2020
-#-------------------------------------------------------
+
 
 print "Enter the no of rows of first matrix\n";
 my $r1 = <STDIN>;
